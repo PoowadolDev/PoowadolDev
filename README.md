@@ -14,7 +14,6 @@ I am always eager to connect with professionals and explore opportunities in sof
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [poowadol.rp@gmail.com](mailto:poowadol.rp@gmail.com)
-*   🧠  I'm learning Golang, Java
 
 ### Skills
 
