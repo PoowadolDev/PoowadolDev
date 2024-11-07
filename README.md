@@ -4,7 +4,7 @@ Hi 👋 My name is Poowadol Rungtabnapa
 #### About Me
 As a Software Engineer with over a year of experience in full stack development, I specialize in creating efficient, secure, and scalable solutions. My expertise spans backend development with Python, Golang, Java, and C#, as well as frontend development with Next.js and React. I have a strong foundation in DevOps practices, including experience with Windows Server, AWS, Kubernetes, Docker, and Git, allowing me to seamlessly bridge the gap between server and client functionalities.
 
-I excel in API development, system security, event streaming, and machine learning. My notable achievements include optimizing system efficiency by reducing process runtime by over 70% and conducting comprehensive AI research for cutting-edge camera security solutions.
+I excel in API development, system security, event streaming, and machine learning. My notable achievements include optimizing system efficiency by reducing process runtime by over 90% and conducting comprehensive AI research for cutting-edge camera security solutions.
 
 #### Education
 I hold a **Bachelor’s Degree in Information and Network Engineering** from **King Mongkut's University of Technology North Bangkok**, graduating with **GPA 3.42** *(Second Class Honors)*. My academic and professional journey has equipped me with the skills and knowledge to tackle complex technical challenges and deliver high-quality solutions.
